@@ -1,6 +1,6 @@
 # Codewars Answers
 
-Current Ranking: 6 Kyu (155)
+Current Ranking: 6 Kyu (163)
 
 These are all my answers for codewars thus far, they are numbered by whichever I did first and it goes down to the latest one I've done.
 
